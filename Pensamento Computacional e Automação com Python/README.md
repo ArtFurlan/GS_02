@@ -44,7 +44,7 @@ O foco do projeto é:
 
 ### 1. Pré-requisitos
 
-- Python instalado (versão 3.x)
+- Python instalado
 
 ### 2. Estrutura de arquivos
 
